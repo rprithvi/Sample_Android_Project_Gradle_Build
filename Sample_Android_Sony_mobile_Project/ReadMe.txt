@@ -9,6 +9,6 @@
 #6: Many such similar projects with a root gradle files will make up the testing harness. 
 #7: A perlfile will trigger the Gradle build and perform COverity Analysis and generate a log as part of the test harness. 
 
-Instructions about installing gradle and building Android project can be be found here. 
+Additional instructions about installing gradle and building Android project can be found following the link below: 
 https://spring.io/guides/gs/gradle-android/#scratch
 
